@@ -28,7 +28,15 @@ public class Nuclear
         System.out.println("Total Number of Employees " + totalEmployees);
         System.out.println("Number of times the waste is removed from the core: " + wasteCount);
         System.out.println("Total Weight of Waste every 1 week: " + wasteCount);
-        System.out.println("Electric Motor replaced or not? : " + replaced);
+        if(replaced == 'y'){
+        System.out.println("Electric Motor replaced or not? (Every 18 days) : YES" );
+
+        } else if(replaced =='n'){
+        System.out.println("Electric Motor replaced or not? (Every 18 days) : NO");
+
+        } else {
+        System.out.println("INVALID INPUT !");
+        }
         System.out.println("Core Average Temperature in Celcius : " + tempCelcius + "'C");
         System.out.println("Core Average Temperature in Kelvin : " + tempKelvin + "'K\n");
 
