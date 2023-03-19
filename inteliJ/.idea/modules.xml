@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlStatement/ControlStatement.iml" filepath="$PROJECT_DIR$/ControlStatement/ControlStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Feb29_classwork/Feb29_classwork.iml" filepath="$PROJECT_DIR$/Feb29_classwork/Feb29_classwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guess_The_Number/Guess_The_Number.iml" filepath="$PROJECT_DIR$/Guess_The_Number/Guess_The_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnString/LearnString.iml" filepath="$PROJECT_DIR$/LearnString/LearnString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleClass/MultipleClass.iml" filepath="$PROJECT_DIR$/MultipleClass/MultipleClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/inteliJ.iml" filepath="$PROJECT_DIR$/.idea/inteliJ.iml" />
+    </modules>
+  </component>
+</project>
